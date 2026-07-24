@@ -4,14 +4,8 @@
 import os
 import pandas as pd
 
-# Get the folder where this script is located
-folder = os.path.dirname(os.path.abspath(__file__))
-
-# Create the full path to the CSV file
-csv_file = os.path.join(folder, "sales_data.csv")
-
 # Read the CSV
-df = pd.read_csv(csv_file)
+df = pd.read_csv("sales_data.csv")
 
 print("=" * 50)
 print("SALES DATA ANALYSIS")
