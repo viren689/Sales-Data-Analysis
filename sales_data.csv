@@ -1,0 +1,11 @@
+Product,Quantity,Price,Total_Sales
+Laptop,2,50000,100000
+Mouse,10,500,5000
+Keyboard,5,1000,5000
+Laptop,1,50000,50000
+Monitor,3,12000,36000
+Mouse,8,500,4000
+Keyboard,,1000,
+Monitor,2,12000,24000
+Laptop,3,50000,150000
+Mouse,5,500,2500
